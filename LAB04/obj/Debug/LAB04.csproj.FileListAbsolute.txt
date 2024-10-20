@@ -1,0 +1,10 @@
+C:\Users\DIMON\source\repos\LAB04\LAB04\obj\Debug\LAB04.csproj.AssemblyReference.cache
+C:\Users\DIMON\source\repos\LAB04\LAB04\obj\Debug\Lab02_02.Form1.resources
+C:\Users\DIMON\source\repos\LAB04\LAB04\obj\Debug\LAB04.Properties.Resources.resources
+C:\Users\DIMON\source\repos\LAB04\LAB04\obj\Debug\LAB04.csproj.GenerateResource.cache
+C:\Users\DIMON\source\repos\LAB04\LAB04\obj\Debug\LAB04.csproj.CoreCompileInputs.cache
+C:\Users\DIMON\source\repos\LAB04\LAB04\bin\Debug\LAB04.exe.config
+C:\Users\DIMON\source\repos\LAB04\LAB04\bin\Debug\LAB04.exe
+C:\Users\DIMON\source\repos\LAB04\LAB04\bin\Debug\LAB04.pdb
+C:\Users\DIMON\source\repos\LAB04\LAB04\obj\Debug\LAB04.exe
+C:\Users\DIMON\source\repos\LAB04\LAB04\obj\Debug\LAB04.pdb
